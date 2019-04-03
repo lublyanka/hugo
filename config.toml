@@ -1,0 +1,128 @@
+baseURL = "http://lublyanka.github.io"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Hi, it's me, Lu"
+theme = "hello-friend-ng"
+# enableGitInfo = true
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+pygmentsUseClasses  = true
+# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+#rssLimit = 10  # Maximum number of items in the RSS feed.
+#copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." 
+# This message is only used by the RSS template. 
+# googleAnalytics = "UA-123-45"
+# disqusShortname = "yourdiscussshortname"
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpored = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[author]
+  name = "Lu"
+
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
+
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2019-03-01"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  
+  # Metadata mostly used in document's head
+  description = "Nice theme for homepages and blogs"
+  keywords = "cv,qa,analyst"
+  #images = [""]
+	
+  homeSubtitle = "QA and Analyst from Saint-Petersburg, Russia."
+  #footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+   
+  # bgImg = ""  # Homepage background-image URL
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  # gitUrl = "https://github.com/username/repository/commit/"
+
+  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+
+  # Add custom css
+  # customCSS = ["css/foo.css", "css/bar.css"]
+
+  # Directory name of your blog content (default is `content/posts`)
+  #contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+  #themeColor = "#252627"
+  
+  [params.logo]
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+  
+  #[permalinks]
+ # posts = "/posts/:year/:month/:title/"
+  
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "linkedin"
+    url ="https://www.linkedin.com/in/lubavakarelina/"
+	
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/lublyanka"
+	
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/lublyanka"
+	
+  [[params.social]]
+    name = "facebook"
+    url = "https://www.facebook.com/lubava.karelina"
+	
+  [[params.social]]
+    name = "goodreads"
+    url = "https://www.goodreads.com/lukarelina"
+  
+  [[params.social]]
+    name = "email"
+    url  = "mailto:sillyredcat@gmail.com"	
+	
+  
+
+[menu]
+ 
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "http://lj.sillyrobot.ru"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "About me"
+    url        = "about/"
+	weight = 10
+
