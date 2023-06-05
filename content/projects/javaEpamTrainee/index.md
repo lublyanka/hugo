@@ -1,5 +1,5 @@
 +++
-title = "Java Epam Trainee"
+title = "Java Epam Trainee" 
 description = ""
 type = ["posts","post"]
 tags = [
@@ -18,8 +18,8 @@ categories = [
 +++
 
 ## Overview
-{{< figure src="learn_logo.png" alt="Epam Java University External Course">}}
-Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:
+ {{< imgresize learn_logo.png "240x60 Right" "Epam Java University External Course">}} 
+ Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:
 * Basics of Computer Science (optional)
 * Version Control with Git
 * Java Basics
