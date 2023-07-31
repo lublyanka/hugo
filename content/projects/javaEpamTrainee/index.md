@@ -7,7 +7,7 @@ tags = [
     "courses",
     "dev",
 ]
-date = "2023-02-06"
+date = "2023-05-30"
 linktitle= "Java Epam Trainee"
 
 categories = [
