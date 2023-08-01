@@ -22,9 +22,5 @@ The program helped me to strengthen my skills, mindset, and network to be a high
 
 ------------------------
 ## Artifacts
- | 
-:---:|:---:
- {{< imgresize onboarding.png "370x280 " "Project Charter Sauce&Spoon" >}}
- __[Communication Plan Ultrarev Butter Onboarding](https://1drv.ms/x/s!AgeHJIJEdd5OgcZXjeoEX1RWgVE3yw?e=XB8VKq)__ 
-  | 
- 
+#### Communication Plan Ultrarev Butter Onboarding
+ {{< onedrive link="resid=4EDE754482248707%2125431&authkey=%21AFvYtODXNXPPqwU&em=2&wdAllowInteractivity=False&ActiveCell=A3&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True" >}}

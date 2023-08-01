@@ -17,3 +17,5 @@ I'm Lu Karelina, 33-years-old **Analyst and Project manager** from Saint-Petersb
  Maintaining            | Risk indentification | Communication        | Problem-solving 
  API testing            | Research             | Planning             | Fixing things 
  Problem Identification | Review               | Goal Setting         | IT skills 
+ 
+ 

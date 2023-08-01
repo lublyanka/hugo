@@ -16,17 +16,19 @@ categories = [
 ]
 
 +++
+{{< onedrive link="resid=4EDE754482248707%21100218&authkey=!AJOB-3QVnXyNiaU&em=2" >}}
 
 ## Overview
  {{< imgresize learn_logo.png "240x60 Right" "Epam Java University External Course">}} 
  Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:
-* Basics of Computer Science (optional)
+* Basics of Computer Science
 * Version Control with Git
-* Java Basics
+* [Java Basics](/certificates/java/)
 * Collections and Streams
-* Design and Databases
+* [Design ](/certificates/design/)
+* [Databases](/certificates/db/)
 * Web Programming Basics
-* Spring Framework
+* [Spring Framework](/certificates/spring/)
 * Final Project
 -----------------
 ## Final Project
@@ -54,6 +56,7 @@ Throughout the project, I have learned about payment processing and developed an
 
 
  {{< imgresize user_flow.png "760x485 Smart" "User flow" >}}  
- {{< imgresize roles.png "760x450 Bottom"  >}} 
- {{< imgresize requirments.png "760x450 TopRight"  >}} 
 
+ {{< imgresize roles.png "760x450 Bottom"  >}}
+ 
+ {{< imgresize requirments.png "760x450 TopRight"  >}} 

@@ -1,5 +1,5 @@
 +++
-title = "Google IT Support Professional Certificate"
+title = "Google IT Support Professional Program"
 description = ""
 type = ["posts","post"]
 tags = [
@@ -12,10 +12,8 @@ categories = [
     "courses",
 ]
 +++
-<div align="center">
 
-{{< imgresize GrowwithGoogle.png "400x400" "Google Project Management Program" >}}
-
+{{< onedrive link="resid=4EDE754482248707%2131826&authkey=!APuKdIs151NBru8&em=2" >}}
 
 [Google Professional Certificate IT Support Management](https://www.coursera.org/specializations/soporte-de-tecnologias-de-informacion-google) is a certification program offered by Google in collaboration with Coursera. 
 
@@ -45,3 +43,4 @@ During the course I did many hands-on activities, such as:
 
 * Monitoring and maintaining system performance.
 ------------------------
+{{< imgresize GrowwithGoogle.png "400x400" "Google IT Support Program" >}}

@@ -1,5 +1,5 @@
 +++
-title = "Google Project Management Professional Certificate"
+title = "Google Project Management Professional Program"
 description = ""
 type = ["posts","post"]
 tags = [
@@ -13,9 +13,8 @@ categories = [
     "courses",
 ]
 +++
-<div align="center">
 
-{{< imgresize GrowwithGoogle.png "400x400" "Google Project Management Program" >}}
+{{< onedrive link="resid=4EDE754482248707%21101087&authkey=!AKG3N1-cf5sTZfU&em=2" >}}
 
 [Google Professional Certificate Project Management](https://www.coursera.org/professional-certificates/gestion-de-proyectos-de-google) is a certification program offered by Google in collaboration with Coursera. 
 
@@ -49,6 +48,8 @@ During the project I did many hands-on activities, such as:
 * Communicated and escalated project issues to stakeholders and demonstrated the impact through effective reports
 ------------------------
 ## Artifacts
+{{< imgresize GrowwithGoogle.png "400x400" "Google Project Management Program" >}}
+
  | 
 :---:|:---:
  {{< imgresize SauceSpoonProjectChapter.png "370x280 " "Project Charter Sauce&Spoon" >}} |  {{< imgresize SauceSpoonProjectPlan.png "370x280 webp q50" "Project Plan Sauce&Spoon" >}}
