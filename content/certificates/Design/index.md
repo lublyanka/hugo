@@ -2,7 +2,7 @@
 title: Design code
 description: 
 date: "2023-06-02T19:47:09+02:00"
-jobDate: 2019
+jobDate: 2023
 work: [design, architecture]
 techs: 
 designs: 
