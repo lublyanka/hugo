@@ -23,13 +23,13 @@ categories = [
  Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:
 * Basics of Computer Science
 * Version Control with Git
-* [Java Basics](/certificates/java/)
-* Collections and Streams
+* [Java Core + Collections and Streams](/certificates/java/)
 * [Design ](/certificates/design/)
 * [Databases](/certificates/db/)
-* Web Programming Basics
+* [Web Programming Basics](/certificates/web/)
+* [Testing](/certificates/testing/)
 * [Spring Framework](/certificates/spring/)
-* Final Project
+* [Final Project](https://github.com/lublyanka/epam_final_task)
 -----------------
 ## Final Project
 Fot the final project I chose Payment varian. 
