@@ -1,6 +1,6 @@
 +++
 title = "Ultrarev Project Management Internship"
-cover = "/projects/ultrarevpm/ultrarevpmcover.webp"
+cover = "/projects/ultrarev_pm/ultrarevpmcover.webp"
 useRelativeCover = true
 type = ["posts","post"]
 tags = [
