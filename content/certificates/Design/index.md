@@ -14,3 +14,4 @@ thumbnail: /design/design.jpg
 {{< onedrive link="resid=4EDE754482248707%2145854&authkey=!ACpAsBSlRTYiMRw&em=2" >}}
 {{< onedrive link="resid=4EDE754482248707%2145860&authkey=!AJfPvGPuX6G_eeQ&em=2" >}}
 {{< onedrive link="resid=4EDE754482248707%21101043&authkey=!AGtZrIzCAGOi7j0&em=2" >}}
+{{< onedrive link="resid=4EDE754482248707%21101151&authkey=!ALIedvfdugm7XRE&em=2" >}}
