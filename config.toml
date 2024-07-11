@@ -208,9 +208,15 @@ disableHugoGeneratorInject = false
     weight = 10 
   [[menu.main]]
     identifier = "posts"
-    name = "Projects"
+    name = "Pet Projects"
     url = "projects/"
     weight = 10
+
+  [[menu.main]]
+    identifier = "certs"
+    name       = "Certification"
+    url        = "certificates/"
+	weight = 20
 
   [[menu.main]]
     identifier = "about"

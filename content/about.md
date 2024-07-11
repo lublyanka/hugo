@@ -8,7 +8,9 @@ aliases = ["about-us","contact"]
   name = "Lu Karelina"
 +++
 
-I'm Lu Karelina, 33-years-old **Analyst and Project manager** from Saint-Petersburg, Russia, currently living in Málaga, Spain. I currently work for <noone>. I enjoy to decompose complex tasks, create a way to deal with problems and make it work. I am a bit of a control freak and looking to increase my skills in devops culture. When I'm not working, you'll probably find me longboarding, reading science fiction or working out.
+I'm Lu Karelina, 34-years-old **Analyst and Project manager** originally from Saint Petersburg, Russia, and nowadays based in Málaga, Spain. I currently work for <NDA company name>. 
+I enjoy decomposing complex tasks, devising effective solutions to problems, and ensuring everything runs smoothly. Some might call me a bit of a control freak, but I see it as a dedication to achieving excellence.
+My current passion lies in expanding my expertise in DevOps culture, aiming to streamline processes and enhance efficiency. Outside of work, I find joy in longboarding, diving into science fiction novels, and staying active through workouts.
 
 
 
