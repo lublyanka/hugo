@@ -14,7 +14,7 @@ categories = [
 ]
 +++
 
-{{< onedrive link="" >}}
+{{< onedrive link="resid=4EDE754482248707%21107546&authkey=%21AF3LkB2JX-0rJ_k&em=2" >}}
 
 IBM SkillsBuild PowerBI program is a certification program offered by IBM in collaboration with Udemy and SkillsBuild. 
 
