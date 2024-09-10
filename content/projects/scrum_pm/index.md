@@ -1,5 +1,5 @@
 +++
-title = "Scrum management"
+title = "[Self study] Scrum management"
 cover = "/projects/scrum_pm/mindset.jpg"
 useRelativeCover = true
 type = ["posts","post"]

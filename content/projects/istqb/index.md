@@ -1,5 +1,5 @@
 +++
-title = "ISTQB Foundational Level"
+title = "[Self study] ISTQB Foundational Level"
 cover = "/projects/istqb/ISTQB.png"
 useRelativeCover = true
 type = ["posts","post"]

@@ -1,5 +1,5 @@
 +++
-title = "Google Project Management Professional Program"
+title = "[Self study] Google Project Management Professional Program"
 description = ""
 type = ["posts","post"]
 tags = [

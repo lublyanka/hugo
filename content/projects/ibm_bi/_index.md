@@ -1,5 +1,5 @@
 +++
-title = "IBM SkillsBuild PowerBI program "
+title = "[Self study] IBM SkillsBuild PowerBI program "
 description = ""
 type = ["posts","post"]
 tags = [

@@ -1,5 +1,5 @@
 +++
-title = "Ultrarev Project Management Internship"
+title = "[Self study] Ultrarev Project Management Internship"
 cover = "/projects/ultrarev_pm/ultrarevpmcover.webp"
 useRelativeCover = true
 type = ["posts","post"]
