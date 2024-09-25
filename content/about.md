@@ -1,6 +1,5 @@
 +++
 title = "About me"
-
 cover = "aboutCover.webp"
 date = "2014-04-09"
 aliases = ["about-us","contact"]

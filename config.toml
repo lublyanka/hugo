@@ -1,5 +1,5 @@
 baseURL = "https://techsavvy.cc/"
-title = "Hi, it's me, Lu"
+title = "Hi, it's me, Lua"
 languageCode = "en-us"
 #defaultContentLanguage = "en"
 theme = "hello-friend-ng"
@@ -8,11 +8,11 @@ PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 #pygmentsUseClasses  = true
 
-paginate  = 10
+pagination.pagerSize = 10
 rssLimit = 10  # Maximum number of items in the RSS feed.
 #copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-googleAnalytics = "UA-39889866-2"
+Config.Services.GoogleAnalytics.ID = "UA-39889866-2"
 # disqusShortname = "yourdiscussshortname"
 
 archetypeDir = "archetypes"
@@ -30,16 +30,13 @@ enableRobotsTXT = true
 enableGitInfo = false
 enableEmoji     = true # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 enableMissingTranslationPlaceholders = false
-disableRSS     = false
+disableRSS     = true
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
-
-[author]
-  name = "Lu"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -63,6 +60,12 @@ disableHugoGeneratorInject = false
   keywords = "cv,qa,analyst"
   #images = [""]
 	
+	
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 4
+  # Enable to show reading time in minutes for posts
+  showReadingTime = true
+  
   homeSubtitle = "Analyst and Project manager from Málaga, Spain."
    
   # Set a background for the homepage
@@ -119,6 +122,7 @@ disableHugoGeneratorInject = false
     rss = false
     copyright = false
     author = true
+	authorName = "Lua"
 
     topText = []
     bottomText = [
@@ -147,7 +151,7 @@ disableHugoGeneratorInject = false
 
   
   #[permalinks]
- # posts = "/posts/:year/:month/:title/"
+  #posts = "/posts/:year/:month/:title/"
 
   # Commento is more than just a comments widget you can embed — 
   # it’s a return to the roots of the internet. 
@@ -209,18 +213,18 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "posts"
     name = "Pet Projects"
-    url = "projects/"
+    url = "/projects/"
     weight = 10
 
   [[menu.main]]
     identifier = "certs"
     name       = "Certification"
-    url        = "certificates/"
+    url        = "/certificates/"
 	weight = 20
 
   [[menu.main]]
     identifier = "about"
     name       = "About me"
-    url        = "about/"
+    url        = "/about/"
 	weight = 50
 
