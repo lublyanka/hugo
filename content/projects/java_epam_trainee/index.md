@@ -1,6 +1,7 @@
 +++
 title = "Java Epam Trainee" 
 description = ""
+cover="/projects/java_epam_trainee/learn_logo.png"
 type = ["posts","post"]
 tags = [
     "java",
@@ -16,17 +17,15 @@ categories = [
 ]
 
 +++
-{{< onedrive link="resid=4EDE754482248707%21100218&authkey=!AJOB-3QVnXyNiaU&em=2" >}}
-
+ ![Epam_certificate](https://1drv.ms/i/s!AgeHJIJEdd5Ohs9oHV03TkZd2AoiXA?embed=1&height=1024)
+ 
 ## Overview
- {{< imgresize learn_logo.png "240x60 Right" "Epam Java University External Course">}} 
  Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:
 * Basics of Computer Science
 * Version Control with Git
-* [Java Core + Collections and Streams](/certificates/java/)
+* [Java Core + Collections and Streams + Web Programming Basics](/certificates/java/)
 * [Design ](/certificates/design/)
 * [Databases](/certificates/db/)
-* [Web Programming Basics](/certificates/web/)
 * [Testing](/certificates/testing/)
 * [Spring Framework](/certificates/spring/)
 * [Final Project](https://github.com/lublyanka/epam_final_task)
@@ -54,9 +53,8 @@ Throughout the project, I have learned about payment processing and developed an
 * Swagger
 * reCAPTCHA
 
+ ![User flow](user_flow.png)
 
- {{< imgresize user_flow.png "760x485 Smart" "User flow" >}}  
-
- {{< imgresize roles.png "760x450 Bottom"  >}}
+ ![Actors](roles.png)
  
- {{< imgresize requirments.png "760x450 TopRight"  >}} 
+![List of requirments](requirments.png)

@@ -1,32 +1,31 @@
-.posts {
+.projects {
   width: 100%;
   max-width: 800px;
   text-align: left;
   padding: 20px;
   margin: 20px auto;
 
-  @media #{$media-size-tablet} {
+  @media #{$tablet} {
     max-width: 660px;
   }
 
   &:not(:last-of-type) {
-    // Default
-    border-bottom: 1px solid $light-border-color;
+    border-bottom: 1px solid #4a4b50;
 
     @media (prefers-color-scheme: dark) {
-      border-bottom: 1px solid $dark-border-color;
+      border-bottom: 1px solid #4a4b50;
     }
-  
+
     @media (prefers-color-scheme: light) {
-      border-bottom: 1px solid $light-border-color;
+      border-bottom: 1px solid #dcdcdc;
     }
-  
-    [data-theme=dark] & {
-      border-bottom: 1px solid $dark-border-color;
+
+    [data-theme='dark'] & {
+      border-bottom: 1px solid #4a4b50;
     }
-  
-    [data-theme=light] & {
-      border-bottom: 1px solid $light-border-color;
+
+    [data-theme='light'] & {
+      border-bottom: 1px solid #dcdcdc;
     }
   }
 
@@ -35,7 +34,7 @@
     margin-bottom: 1.9em;
     line-height: normal;
 
-    @media #{$media-size-tablet} {
+    @media #{$tablet} {
       display: block;
     }
   }
@@ -47,10 +46,10 @@
     list-style: none;
   }
 
-  .post {
+  .project {
     &-title {
       font-size: 1rem;
-      margin: 5px 0 5px 0;
+      margin: 5px 0;
     }
 
     &-year {
@@ -59,7 +58,7 @@
       font-size: 1.6em;
       @include dimmed;
 
-      @media #{$media-size-tablet} {
+      @media #{$tablet} {
         margin: -6px 0 4px;
       }
     }

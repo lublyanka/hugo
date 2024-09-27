@@ -11,12 +11,19 @@ I'm Lu Karelina, 34-years-old **Analyst and Project manager** originally from Sa
 I enjoy decomposing complex tasks, devising effective solutions to problems, and ensuring everything runs smoothly. Some might call me a bit of a control freak, but I see it as a dedication to achieving excellence.
 My current passion lies in expanding my expertise in DevOps culture, aiming to streamline processes and enhance efficiency. Outside of work, I find joy in longboarding, diving into science fiction novels, and staying active through workouts.
 
-
-
- Part QA                | Part Analyst         | Part Project manager | Part Dev 
- ---------------------- | -------------------- |--------------------- |--------- 
- Maintaining            | Risk indentification | Communication        | Problem-solving 
- API testing            | Research             | Planning             | Fixing things 
- Problem Identification | Review               | Goal Setting         | IT skills 
+ Part QA                |  Part Dev 
+ ---------------------- | --------- 
+ Maintaining            | Problem-solving 
+ API testing            | Fixing things 
+ Problem Identification | IT skills 
  
+ Part Analyst         | Part Project manager 
+ -------------------- |--------------------- 
+ Risk indentification | Communication        
+ Research             | Planning             
+ Review               | Goal Setting         
+ 
+ 
+ 
+ [![Standout report](/standout.png)](/standout)
  

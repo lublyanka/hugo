@@ -1,7 +1,6 @@
 +++
 title = "[Self study] ISTQB Foundational Level"
-cover = "/projects/istqb/ISTQB.png"
-useRelativeCover = true
+cover = "projects/istqb/ISTQB.png"
 type = ["posts","post"]
 tags = [
     "test",
@@ -19,4 +18,4 @@ The ISTQB Certificate is a globally recognized professional certification progra
 
 ------------------------
 ## Artifacts
- {{< onedrive link="resid=4EDE754482248707%2125153&authkey=!AAt1J8s-uY99nIo&em=2" >}}
+ {{< pdf src="https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&em=2" width="100%" height="650px" >}}

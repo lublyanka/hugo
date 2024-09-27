@@ -23,4 +23,4 @@ The program helped me to strengthen my skills, mindset, and network to be a high
 ------------------------
 ## Artifacts
 #### Communication Plan Ultrarev Butter Onboarding
- {{< onedrive link="resid=4EDE754482248707%2125431&authkey=%21AFvYtODXNXPPqwU&em=2&wdAllowInteractivity=False&ActiveCell=A3&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True" >}}
+ {{< pdf src="https://onedrive.live.com/embed?resid=4EDE754482248707%2125431&authkey=%21AFvYtODXNXPPqwU&em=2&wdAllowInteractivity=False&ActiveCell='Sheet1'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True" width="100%" height="775px" >}}

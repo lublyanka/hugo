@@ -14,7 +14,8 @@ categories = [
 ]
 +++
 
-{{< onedrive link="resid=4EDE754482248707%21107546&authkey=%21AF3LkB2JX-0rJ_k&em=2" >}}
+ {{< pdf src="https://1drv.ms/b/s!AgeHJIJEdd5OhsgaXcuQHYlf7Ssn-Q?embed=1&em=2" width="100%" height="615px" >}}
+
 
 IBM SkillsBuild PowerBI program is a certification program offered by IBM in collaboration with Udemy and SkillsBuild. 
 
@@ -53,4 +54,4 @@ During the project I did many hands-on activities, such as:
 ## Artifacts
 [Github](https://github.com/lublyanka/PowerBICourseIBM/tree/main)
 
-{{< onedrive link="resid=4EDE754482248707%21106418&authkey=!AHVjkRwqGd-TycM&em=2" >}}
+ {{< pdf src="https://1drv.ms/b/s!AgeHJIJEdd5Ohr8ydWORHCoZ35PJww?embed=1&em=2" width="100%" height="625px" >}}

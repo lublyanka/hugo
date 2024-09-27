@@ -52,7 +52,7 @@ disableHugoGeneratorInject = false
   
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
-  dateformNum     = "2019-03-01"
+  dateformNum     = "2019-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   
   # Metadata mostly used in document's head
@@ -211,7 +211,7 @@ disableHugoGeneratorInject = false
     url = "https://dreamlife-girl.livejournal.com/"
     weight = 10 
   [[menu.main]]
-    identifier = "posts"
+    identifier = "projects"
     name = "Pet Projects"
     url = "/projects/"
     weight = 10

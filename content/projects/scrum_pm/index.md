@@ -1,6 +1,6 @@
 +++
 title = "[Self study] Scrum management"
-cover = "/projects/scrum_pm/mindset.jpg"
+cover = "projects/scrum_pm/mindset.jpg"
 useRelativeCover = true
 type = ["posts","post"]
 tags = [
