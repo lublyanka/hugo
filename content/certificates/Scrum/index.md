@@ -2,7 +2,7 @@
 title: Scrum PSM I
 description:	
 date: "2024-08-17T14:47:09+02:00"
-jobDate: 2023
+jobDate: 2024
 work: [scrum, management]
 techs: 
 designs: 
