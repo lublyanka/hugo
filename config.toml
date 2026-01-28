@@ -12,7 +12,10 @@ pagination.pagerSize = 10
 rssLimit = 10  # Maximum number of items in the RSS feed.
 #copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-Config.Services.GoogleAnalytics.ID = "UA-39889866-2"
+#Config.Services.GoogleAnalytics.ID = "UA-39889866-2"
+[services]
+  [services.googleAnalytics]
+    ID = "UA-39889866-2"
 # disqusShortname = "yourdiscussshortname"
 
 archetypeDir = "archetypes"
@@ -34,11 +37,6 @@ disableRSS     = true
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
@@ -71,7 +69,7 @@ disableHugoGeneratorInject = false
   # Enable to show reading time in minutes for posts
   showReadingTime = true
   
-  homeSubtitle = "Analyst and Project manager from Málaga, Spain."
+  homeSubtitle = "Delivery and Project manager from Málaga, Spain."
    
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -96,6 +94,12 @@ disableHugoGeneratorInject = false
   # and add them into your own `layouts/partials/sharing-buttons.html`
   #
   enableSharingButtons = true
+
+    # Reading time
+  #
+  # This option enables reading time part on post info
+  #
+  enableReadingTime = true
 
  # Global language menu
   #
@@ -122,12 +126,14 @@ disableHugoGeneratorInject = false
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
   #
+  [params.author]
+    name = "Lua"
+  
   [params.footer]
-    trademark = true
+    trademark = false
     rss = false
     copyright = false
-    author = true
-	authorName = "Lua"
+    author = false
 
     topText = []
     bottomText = [
@@ -154,9 +160,6 @@ disableHugoGeneratorInject = false
     # Append the current url pathname to logoText 
     # logoCursorPathname = true
 
-  
-  #[permalinks]
-  #posts = "/posts/:year/:month/:title/"
 
   # Commento is more than just a comments widget you can embed — 
   # it’s a return to the roots of the internet. 
@@ -169,47 +172,39 @@ disableHugoGeneratorInject = false
   # [params.commento]
   #   url = ""
 
+   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
+  # Addon: Startpage portrait 
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Uncomment this if you want a portrait on your start page
-  #
+  # 
   [params.portrait]
      path     = "hi.png"
      alt      = "Portrait"
      maxWidth = "200px"
   
-  # Social Icons
+ # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
+  # Addon: Social icons
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Check https://github.com/Track3/hermit#social-icons for more info.
+  #
   [[params.social]]
     name = "linkedin"
-    url ="https://www.linkedin.com/in/lubavakarelina/"
-	
+    url ="https://www.linkedin.com/in/lua-karelina/"
+
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/lublyanka"
-	
-  [[params.social]]
-    name = "instagram"
-    url = "https://www.instagram.com/lublyanka"
-	
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/lublyanka"
-	
-  [[params.social]]
-    name = "facebook"
-    url = "https://www.facebook.com/lubava.karelina"
-	
+    name = "email"
+    url  = "mailto:lubava.karelina@gmail.com"	
+		
   [[params.social]]
     name = "goodreads"
     url = "https://www.goodreads.com/lukarelina"
   
   [[params.social]]
-    name = "email"
-    url  = "mailto:lubava.karelina@gmail.com"	
+    name = "github"
+    url  = "https://github.com/lublyanka"
 	
-  
 
 [menu]
- 
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
@@ -225,11 +220,15 @@ disableHugoGeneratorInject = false
     identifier = "certs"
     name       = "Certification"
     url        = "/certificates/"
-	weight = 20
+	  weight = 20
 
   [[menu.main]]
     identifier = "about"
     name       = "About me"
     url        = "/about/"
-	weight = 50
+	  weight = 50
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
